@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-17 | [Distributed Tracing and Observability](system-design/distributed-tracing/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/c589051b0988ef73a48f48d5f5dcc535b5b56362) |
 | 2026-10-16 | [Event-Driven Architecture & Idempotency](system-design/event-driven-architecture-idempotency/07-eda-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/68a911ce2bf10f22eabf1356e019c87ce69f3a63) |
 | 2026-10-15 | [Load Balancing Algorithms](system-design/load-balancing/notes.ts) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/c2ac595c5ffa81333248e14109263d31d80db59d) |
 | 2026-10-14 | [Distributed Caching Strategies](system-design/distributed-caching-strategies/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/0a8bda8eaaea6517cc0c94d948ed001eeeb3d380) |
