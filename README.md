@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-21 | [Understanding Distributed System Consistency Models](system-design/distributed-system-consistency-models/consistency-models-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/4f2fda79f706a719c78f20cad8d009bfb0a59bed) |
 | 2026-10-20 | [Database Transactions and ACID Properties](full-stack/database-transactions/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/9b8aeff43ca876609508c63c9d49ed0be2cb7a0e) |
 | 2026-10-19 | [Consistency Models in Distributed Systems](system-design/consistency-models-distributed-systems/notes/consistency-models-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/54b47e8741fc0ca72d827959bdbe7595008d6cba) |
 | 2026-10-18 | [Data Partitioning Strategies](system-design/data-partitioning-strategies/data-partitioning.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/f65abc7921301a7a655a9066586a05ee4c633420) |
