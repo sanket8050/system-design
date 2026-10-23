@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-23 | [Distributed Transactions & Saga Pattern](system-design/distributed-transactions-saga-pattern/day14-distributed-transactions-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/30e7cc2fb92a765bdf7ec97d70074f2a409f6485) |
 | 2026-10-22 | [Docker Multi-Stage Builds for Node.js](devops/docker-multi-stage/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/b58e1edb806609100d1206efea312e90025aff43) |
 | 2026-10-21 | [Understanding Distributed System Consistency Models](system-design/distributed-system-consistency-models/consistency-models-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/4f2fda79f706a719c78f20cad8d009bfb0a59bed) |
 | 2026-10-20 | [Database Transactions and ACID Properties](full-stack/database-transactions/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/9b8aeff43ca876609508c63c9d49ed0be2cb7a0e) |
