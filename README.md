@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-26 | [Distributed Transactions: 2PC & Saga](system-design/distributed-transactions-2pc-saga/01_intro_distributed_transactions.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/2f10b7f910b6b0618cf78b15d5f3a13466ba9c4c) |
 | 2026-10-25 | [Event-Driven Architectures: Ensuring Idempotency](system-design/event-driven-idempotency/notes/eda-idempotency-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/f523fc489fb5cb07d4a9bfc581054d90cf57e64b) |
 | 2026-10-24 | [Distributed Transactions with 2PC](system-design/distributed-transactions-two-phase-commit/distributed-transactions-2pc.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/7fb4e8510368e0bb08e3876f3d0f3cc763f7de70) |
 | 2026-10-23 | [Distributed Transactions & Saga Pattern](system-design/distributed-transactions-saga-pattern/day14-distributed-transactions-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/30e7cc2fb92a765bdf7ec97d70074f2a409f6485) |
