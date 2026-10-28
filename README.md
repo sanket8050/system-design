@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-28 | [Database Sharding Strategies](system-design/database-sharding/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/ea092bce31e168db93f6ca35cfffefcc41fa1841) |
 | 2026-10-27 | [Distributed Transactions & Idempotency](system-design/distributed-transactions-idempotency/distributed-transactions-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/f8ef53e98dbc9140a173336134653282cd8699b6) |
 | 2026-10-26 | [Distributed Transactions: 2PC & Saga](system-design/distributed-transactions-2pc-saga/01_intro_distributed_transactions.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/2f10b7f910b6b0618cf78b15d5f3a13466ba9c4c) |
 | 2026-10-25 | [Event-Driven Architectures: Ensuring Idempotency](system-design/event-driven-idempotency/notes/eda-idempotency-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/f523fc489fb5cb07d4a9bfc581054d90cf57e64b) |
