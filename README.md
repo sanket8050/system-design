@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-02 | [REST API Design Principles](full-stack/rest-api-design/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/40e4cff99ace933f08a9907b0bc181f7180dd5cd) |
 | 2026-11-01 | [Distributed Tracing and Observability](system-design/distributed-tracing/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/1bb92402767b29232962b1ada4edb78a37e8cda1) |
 | 2026-10-31 | [Distributed Transactions with Saga & Idempotency](system-design/distributed-transactions-saga-idempotency/distributed-transactions-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/2793fccce551484f54ac36f3299c5a7f6dc4908c) |
 | 2026-10-30 | [Idempotency and the Outbox Pattern](system-design/idempotency-outbox-pattern/day21-idempotency-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/a9f726c585ed1f47153ba595332995a3e09e1fe3) |
