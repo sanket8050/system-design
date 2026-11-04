@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-04 | [Database Transactions and ACID Properties](full-stack/database-transactions/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/986723854383020ff85b69a665ac10a5eaad78b1) |
 | 2026-11-03 | [JWT Authentication and Authorization](full-stack/jwt-authentication/notes.ts) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/2abfab9c716e4ca9c27f39de8627a5078c17d3ad) |
 | 2026-11-02 | [REST API Design Principles](full-stack/rest-api-design/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/40e4cff99ace933f08a9907b0bc181f7180dd5cd) |
 | 2026-11-01 | [Distributed Tracing and Observability](system-design/distributed-tracing/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/1bb92402767b29232962b1ada4edb78a37e8cda1) |
