@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-06 | [Distributed Consistency Models](system-design/distributed-consistency-models/consistency-models-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/59a8561ac0ca4c85045a7cef8ab38c7e4b7dd3d9) |
 | 2026-11-05 | [Test Pyramid: Unit, Integration, E2E](testing/test-pyramid/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/f4b9859637c295190240f0b8e123fe6e70e2c295) |
 | 2026-11-04 | [Database Transactions and ACID Properties](full-stack/database-transactions/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/986723854383020ff85b69a665ac10a5eaad78b1) |
 | 2026-11-03 | [JWT Authentication and Authorization](full-stack/jwt-authentication/notes.ts) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/2abfab9c716e4ca9c27f39de8627a5078c17d3ad) |
