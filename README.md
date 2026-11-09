@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-09 | [Distributed Transactions: 2PC & Saga Patterns](system-design/distributed-transactions-2pc-saga/distributed-transactions.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/086f55824a3f9466013ab6945f00f6c1bad8e53a) |
 | 2026-11-08 | [Input Validation and Injection Prevention](full-stack/input-validation-security/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/02c24fba8ddb9e2343f40bef09f569553c23edc1) |
 | 2026-11-07 | [CI/CD Pipeline with GitHub Actions](devops/cicd-pipeline/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/c242d2adaf84f51b27289da032876817a4a0fb25) |
 | 2026-11-06 | [Distributed Consistency Models](system-design/distributed-consistency-models/consistency-models-overview.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/59a8561ac0ca4c85045a7cef8ab38c7e4b7dd3d9) |
