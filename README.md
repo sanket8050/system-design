@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-12 | [Database Sharding Strategies](system-design/database-sharding/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/b8111474077301b7728458dfedf93bcaace47f7b) |
 | 2026-11-11 | [Sliding Window Rate Limiter](system-design/rate-limiter-sliding-window/notes.ts) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/7eed1c70fc015019c6b0ef8b9498a6029d975459) |
 | 2026-11-10 | [Consistent Hashing for Distributed Systems](system-design/consistent-hashing/notes.ts) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/2189eb3bbc5900358e6bc2176f60e2a39b3c29ca) |
 | 2026-11-09 | [Distributed Transactions: 2PC & Saga Patterns](system-design/distributed-transactions-2pc-saga/distributed-transactions.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/086f55824a3f9466013ab6945f00f6c1bad8e53a) |
