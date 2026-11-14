@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-14 | [Event-Driven Architecture Patterns](system-design/event-driven-architecture-patterns/event-driven-architecture-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/34cc6b01cc40f1e03ef7a8c4b49124d8a5f664d1) |
 | 2026-11-13 | [Event-Driven Architectures: Idempotency & Deduplication](system-design/event-driven-idempotency-deduplication/day35-event-idempotency-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/4e34ba85650bf41d93147f9b3af4bff328de9b18) |
 | 2026-11-12 | [Database Sharding Strategies](system-design/database-sharding/notes.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/b8111474077301b7728458dfedf93bcaace47f7b) |
 | 2026-11-11 | [Sliding Window Rate Limiter](system-design/rate-limiter-sliding-window/notes.ts) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/7eed1c70fc015019c6b0ef8b9498a6029d975459) |
