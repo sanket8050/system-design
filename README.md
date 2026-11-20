@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | [Test Pyramid: Unit, Integration, E2E](testing/test-pyramid/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/0c2385c5ec176ce485eed588715b46fc950ba0ba) |
 | 2026-11-19 | [Event-Driven Architectures: Idempotent Consumers](system-design/event-driven-idempotent-consumers/041-eda-idempotency-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/e131d826174ebddc147d3bbf40d6909e3508f71b) |
 | 2026-11-18 | [JWT Authentication and Authorization](full-stack/jwt-authentication/notes.ts) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/6b44aa127d1c3cd5d857c95bc4978918d2613064) |
 | 2026-11-17 | [Idempotency & Deduplication in Distributed Systems](system-design/idempotency-deduplication-distributed-systems/idempotency-deduplication-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/1b1d8cfcd313cea5ce098e4e4e2b05f2fa5bfce3) |
