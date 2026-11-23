@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-23 | [Input Validation and Injection Prevention](full-stack/input-validation-security/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/00d8c9675e022bf6caa17f269cc507be972c19ff) |
 | 2026-11-22 | [Distributed Transactions: Saga Pattern](system-design/distributed-transactions-saga-pattern/01-distributed-transactions-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/f618e5649ab7869be8c7de49bb0bc538917c15ac) |
 | 2026-11-21 | [Docker Multi-Stage Builds for Node.js](devops/docker-multi-stage/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/03b64cc1c6476f766e4216f26c4c28cc25904e8c) |
 | 2026-11-20 | [Test Pyramid: Unit, Integration, E2E](testing/test-pyramid/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/0c2385c5ec176ce485eed588715b46fc950ba0ba) |
