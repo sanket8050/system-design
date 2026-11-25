@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-25 | [Consistent Hashing for Distributed Systems](system-design/consistent-hashing/notes.ts) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/d3045455eabe2b4dab2bc3d66d7f7b9c22ea4a8d) |
 | 2026-11-24 | [Event-Driven Microservices with Kafka](system-design/event-driven-microservices-kafka/notes/046-event-driven-architecture-kafka-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/6fb9e25fa8c899347d6dbfa5af0a26ac277053e7) |
 | 2026-11-23 | [Input Validation and Injection Prevention](full-stack/input-validation-security/notes.md) | `TypeScript` | `Intermediate` | [Commit](https://github.com/sanket8050/system-design/commit/00d8c9675e022bf6caa17f269cc507be972c19ff) |
 | 2026-11-22 | [Distributed Transactions: Saga Pattern](system-design/distributed-transactions-saga-pattern/01-distributed-transactions-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/f618e5649ab7869be8c7de49bb0bc538917c15ac) |
