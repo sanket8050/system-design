@@ -6,6 +6,7 @@ Personal repository for daily code practice, algorithmic problem solving, design
 
 | Date | Topic / Problem | Language | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-27 | [Rate Limiting Strategies](system-design/rate-limiting-strategies/rate-limiting-algorithms.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/a41175ea4ff25e8b4cc160ff92eafc9b4dbb2450) |
 | 2026-11-26 | [Idempotency in Distributed Systems](system-design/idempotency-distributed-systems/idempotency-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/397e24f6dcc54cb0a8f3dff6a7affc6e6891585e) |
 | 2026-11-25 | [Consistent Hashing for Distributed Systems](system-design/consistent-hashing/notes.ts) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/d3045455eabe2b4dab2bc3d66d7f7b9c22ea4a8d) |
 | 2026-11-24 | [Event-Driven Microservices with Kafka](system-design/event-driven-microservices-kafka/notes/046-event-driven-architecture-kafka-intro.md) | `TypeScript` | `Advanced` | [Commit](https://github.com/sanket8050/system-design/commit/6fb9e25fa8c899347d6dbfa5af0a26ac277053e7) |
